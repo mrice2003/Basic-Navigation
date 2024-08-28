@@ -1,13 +1,5 @@
 [
-
-{"name": "A", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
-
- 
-
-{"name": "B", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
-
- 
-
-{"name": "C", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
-
+    { name: 'Tom Cruise', age: 62, picture: require('../assets/tomcruise.png')},
+    { name: 'Bradd Pitt', age: 60, picture: require('../assets/braddPitt.png')},
+    { name: 'Kendrick Lamar', age: 37, picture: require('../assets/KendrickLamar.png')},
 ]
