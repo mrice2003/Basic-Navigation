@@ -1,0 +1,13 @@
+[
+
+{"name": "A", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
+
+ 
+
+{"name": "B", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
+
+ 
+
+{"name": "C", "age": "20", "picture": "http://someurl.com/apicture.jpg"},
+
+]
