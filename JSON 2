@@ -1,0 +1,5 @@
+[
+    { name: 'Soccer', picture: require('../assets/soccer.png')},
+    { name: 'Basketball', picture: require('../assets/basketball.png')},
+    { name: 'Coding', picture: require('../assets/coding.png')},
+]
